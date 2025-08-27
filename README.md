@@ -1,5 +1,5 @@
 # STUDENT RESPONSE FORM
-A modern Java Swing application for student data collection, featuring advanced GUI design, event-driven programming, and robust input validation. This project demonstrates hands-on expertise in Java desktop application development, OOPs and user-centric design—perfect.
+A modern Java Swing application for student data collection, featuring advanced GUI design, event-driven programming, and robust input validation. Demonstrates hands-on Java desktop application development, OOPs and user-centric layout design.
 <br>
 
 ## 🖼️ OVERVIEW
